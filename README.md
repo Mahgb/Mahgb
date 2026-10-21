@@ -5,8 +5,11 @@ Welcome to my GitHub profile! I'm a third-year Software Engineering student at U
 📌 About Me
 
 🎓 Software Engineering student at UTM (3rd year)
+
 🤝 Former member of the IEEE student team in Sudan.
+
 🧠 Interested in AI, machine learning, and building useful web applications
+
 ⚡ beside Software Engineering I am interested in football, swimming and Tennis.
 
 🎯 Goals
