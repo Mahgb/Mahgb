@@ -33,8 +33,11 @@ razakevent – mobile app that facilitates the process of event management of KT
 mindcare – web application for mental health purposes.
 
 🌐 Connect with Me
+
 📩 ahmedmahgoub200@gmail.com
+
 💼 www.linkedin.com/in/ahmed-mahgoub-539b19288
+
 💻 https://github.com/Mahgb
 
 
