@@ -15,11 +15,12 @@ Welcome to my GitHub profile! I'm a third-year Software Engineering student at U
 🎯 Goals
 
 Become an AI / ML engineer who builds data-driven products that matter
+
 Grow as a full-stack web developer
 
 🛠️ Skills & Technologies
 
-Languages: [Python, JavaScript, Java, C++, SQL, HTML, CSS. Keep only what you have really used]
+Languages: [Python, JavaScript, Java, C++, SQL, HTML, CSS.]
 
 Web Development: HTML, CSS, React, Node.js, express, Typescript
 
