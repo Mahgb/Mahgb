@@ -1,47 +1,35 @@
-Hi there, I'm Ahmed Mahgoub 👋
+# Hi there, I'm Ahmed Mahgoub 👋
 
-Welcome to my GitHub profile! I'm a third-year Software Engineering student at Universiti Teknologi Malaysia (UTM) with a passion for solving real-world problems through technology. I'm building my path as a web developer and an aspiring AI / machine learning engineer.
+Welcome to my GitHub profile! I'm a **third-year Software Engineering** student at **Universiti Teknologi Malaysia (UTM)** with a passion for solving real-world problems through technology. I'm building my path as a **web developer** and an aspiring **AI / machine learning engineer**.
 
-📌 About Me
+## 📌 About Me
 
-🎓 Software Engineering student at UTM (3rd year)
+- 🎓 **Software Engineering** student at UTM (3rd year)
+- 🤝 Former member of the **IEEE student team** in Sudan
+- 🧠 Interested in **AI**, **machine learning**, and building useful **web applications**
+- ⚡ Beside Software Engineering, I enjoy **football**, **swimming**, and **tennis**
 
-🤝 Former member of the IEEE student team in Sudan.
+## 🎯 Goals
 
-🧠 Interested in AI, machine learning, and building useful web applications
+- Become an **AI / ML engineer** who builds data-driven products that matter
+- Grow as a **full-stack web developer**
 
-⚡ beside Software Engineering I am interested in football, swimming and Tennis.
+## 🛠️ Skills & Technologies
 
-🎯 Goals
+- **Languages:** Python, JavaScript, Java, C++, SQL, HTML, CSS
+- **Web Development:** HTML, CSS, React, Node.js, Express, TypeScript
+- **AI / ML:** Python
+  - *Currently learning:* Pandas, NumPy, scikit-learn, TensorFlow / PyTorch
+- **Tools:** Git, GitHub, Visual Studio Code
 
-Become an AI / ML engineer who builds data-driven products that matter
+## 💻 Projects
 
-Grow as a full-stack web developer
+- [**CareConnect**](https://github.com/Mahgb/careconnect) – a mobile app that helps caregivers monitor and keep track of elderly people and people with special needs.
+- [**RazakEvent**](https://github.com/Mahgb/razakevent) – a mobile app that simplifies event management for KTR.
+- [**MindCare**](https://github.com/Mahgb/mindcare) – a web application for mental health support.
 
-🛠️ Skills & Technologies
+## 🌐 Connect with Me
 
-Languages: [Python, JavaScript, Java, C++, SQL, HTML, CSS.]
-
-Web Development: HTML, CSS, React, Node.js, express, Typescript
-
-AI / ML: Python Currently learning: Pandas, NumPy, scikit-learn, TensorFlow / PyTorch
-
-Tools: Git, GitHub, Visual Studio Code
-
-💻 Projects
-
-careconnect – a mobile App that helps the caregaivers to monitor and keep track on elders and special needs.
-
-razakevent – mobile app that facilitates the process of event management of KTR.
-
-mindcare – web application for mental health purposes.
-
-🌐 Connect with Me
-
-📩 ahmedmahgoub200@gmail.com
-
-💼 www.linkedin.com/in/ahmed-mahgoub-539b19288
-
-💻 https://github.com/Mahgb
-
-
+- 📩 [**Email**](mailto:ahmedmahgoub200@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ahmed-mahgoub-539b19288)
+- 💻 [**GitHub**](https://github.com/Mahgb)
