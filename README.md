@@ -24,7 +24,9 @@ Tools: Git, GitHub, Visual Studio Code
 
 💻 Projects
 careconnect – a mobile App that helps the caregaivers to monitor and keep track on elders and special needs.
+
 razakevent – mobile app that facilitates the process of event management of KTR.
+
 mindcare – web application for mental health purposes.
 
 🌐 Connect with Me
